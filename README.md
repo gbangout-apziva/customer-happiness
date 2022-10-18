@@ -1,4 +1,4 @@
-# chMkzzRBvcoyh3mk: Happy Costumer project
+# Happy Costumer project
 
 #Task
 
